@@ -9,7 +9,7 @@ The `Containerfile` downloads a pinned release of `tfswitch` from GitHub and pro
 The image is built for `linux/amd64` and `linux/arm64` via GitHub Actions and published to the GitHub Container Registry at:
 
 ```
-ghcr.io/oci-tfswitch:latest
+ghcr.io/thredd-platform/oci-tfswitch:latest
 ```
 
 ## Usage
