@@ -17,7 +17,7 @@ ghcr.io/oci-tfswitch:latest
 Copy the binary into your devcontainer image:
 
 ```dockerfile
-COPY --from=ghcr.io/cpressland/oci-tfswitch:latest / /
+COPY --from=ghcr.io/thredd-platform/oci-tfswitch:latest / /
 ```
 
 ## Version updates
